@@ -165,4 +165,4 @@ Here are some related projects
 
 - [Mechine Learning README](https://github.com/LukaKu-Bangkit2022/LukaKu-ML#readme)
 
-- [Cloud Computting README](https://github.com/LukaKu-Bangkit2022/LukaKu-cloud#readme)
+- [Cloud Computing README](https://github.com/LukaKu-Bangkit2022/LukaKu-cloud#readme)
