@@ -59,11 +59,12 @@ To see the LukaKu application demo, please download it [here](https://drive.goog
 
 This project is supported by the following companies:
 
-- Kampus Merdeka
-- Bangkit Academy 2022
+- [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
+- [Bangkit Academy 2022](https://www.linkedin.com/company/bangkit-academy/)
 - Google
 - GoTo
 - Traveloka
+- Deeptech.id
 
 
 # API Reference
