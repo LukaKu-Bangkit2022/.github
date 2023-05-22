@@ -164,10 +164,9 @@ For support, email support@lukaku.id or join our  [LinkedIn](https://www.linkedi
 
 ## Related
 
-Here are some related projects
-
 - [Mobile Development README🔒](https://github.com/LukaKu-Bangkit2022/LukaKuApp#readme)
-
 - [Machine Learning README🔒](https://github.com/LukaKu-Bangkit2022/LukaKu-ML#readme)
-
 - [Cloud Computing README🔒](https://github.com/LukaKu-Bangkit2022/LukaKu-cloud#readme)
+- [Empat Mahasiswa Unpad Raih Pendanaan Capstone Project Bangkit 2022](https://www.unpad.ac.id/2022/09/empat-mahasiswa-unpad-raih-pendanaan-capstone-project-bangkit-2022/)
+- [Pembimbing dan Anggota Tim Lukaku Bagi Cerita.Bangkit Academy 2022](https://www.yarsi.ac.id/2023/03/09/pembimbing-dan-anggota-tim-lukaku-bagi-cerita-bangkit-academy-2022/)
+- [Zahra Ramadhanti, Mahasiswa Sistem Informasi Universitas Jambi yang mendapatkan dana inkubasi dari Google dan Dikti melalui program Bangkit](https://himasi.unja.ac.id/2023/01/05/zahra-ramadhanti-mahasiswa-sistem-informasi-universitas-jambi-yang-mendapatkan-dana-inkubasi-dari-google-dan-dikti-melalui-program-bangkit/)
