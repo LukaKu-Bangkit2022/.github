@@ -67,7 +67,7 @@ This project is supported by the following companies:
 - Deeptech.id
 
 
-# API Reference
+## API Reference
 
 We also provide API documentation for developers who are interested in integrating with our application. Visit our [API documentation](https://lukaku-new-ry4hqvvwxq-as.a.run.app/docs#/).
 
@@ -88,6 +88,10 @@ Login with phone number, OTP authentication, detection using YOLOv5 model.
 To access the LukaKu logo and media, as well as our identity guidelines, visit [this link](https://drive.google.com/drive/folders/1fa8McQ6ih-Lbm8tIljwYoM_9mz7Ycdsr?usp=share_link) and [this link](https://drive.google.com/file/d/1BevHnXDi4U8JkAPDIU1IB29_vNu97sne/view?usp=share_link) respectively. We also provide a LukaKu manual book that you can download and use as a guide in using our application. You can download the manual book from [this link](https://drive.google.com/file/d/1kbBjyC4f-t_eI2LFWgTfgo8ZqeFKaFsf/view?usp=share_link).
 
 
+## Publication & Intellectual Property Landscape
+
+- [Copyright](https://pdki-indonesia.dgip.go.id/detail/EC002022104062?type=copyright&keyword=lukaku)
+- [Trademark](https://pdki-indonesia.dgip.go.id/detail/IPT2022211487?type=trademark&keyword=lukaku)
 
 ## Information
 
@@ -162,8 +166,8 @@ For support, email support@lukaku.id or join our  [LinkedIn](https://www.linkedi
 
 Here are some related projects
 
-- [Mobile Development README](https://github.com/LukaKu-Bangkit2022/LukaKuApp#readme)
+- [Mobile Development README🔒](https://github.com/LukaKu-Bangkit2022/LukaKuApp#readme)
 
-- [Mechine Learning README](https://github.com/LukaKu-Bangkit2022/LukaKu-ML#readme)
+- [Machine Learning README🔒](https://github.com/LukaKu-Bangkit2022/LukaKu-ML#readme)
 
-- [Cloud Computing README](https://github.com/LukaKu-Bangkit2022/LukaKu-cloud#readme)
+- [Cloud Computing README🔒](https://github.com/LukaKu-Bangkit2022/LukaKu-cloud#readme)
