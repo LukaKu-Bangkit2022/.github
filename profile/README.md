@@ -22,6 +22,13 @@ LukaKu is a mobile application that helps users quickly detect various types of 
 ## Installation
 
 - Download the application on [Google Play](https://play.google.com/store/apps/details?id=id.lukaku.app) or visit our [website](https://lukaku.id).
+
+<p align="center">
+  <a href='https://play.google.com/store/apps/details?id=id.lukaku.app&utm_source=lukaku&utm_campaign=start%20detection&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank">
+    <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
+  </a>
+</p>
+
 - Register and log in using your phone number.
 - Use the wound detection feature, find medication, find the nearest hospital/clinic, and read articles about wounds and health easily.
 - Leave a review and rating to help us continue to develop in helping you.
