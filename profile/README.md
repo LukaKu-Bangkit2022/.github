@@ -68,7 +68,7 @@ This project is supported by the following companies:
 
 - [Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)
 - [Bangkit Academy 2022](https://www.linkedin.com/company/bangkit-academy/)
-- Google
+- [Google](https://grow.google/intl/id_id/bangkit/)
 - GoTo
 - Traveloka
 - Deeptech.id
@@ -97,8 +97,8 @@ To access the LukaKu logo and media, as well as our identity guidelines, visit [
 
 ## Publication & Intellectual Property Landscape
 
-- [Copyright](https://pdki-indonesia.dgip.go.id/detail/EC002022104062?type=copyright&keyword=lukaku)
-- [Trademark](https://pdki-indonesia.dgip.go.id/detail/IPT2022211487?type=trademark&keyword=lukaku)
+- [Copyright](https://pdki-indonesia.dgip.go.id/detail/eb543c7dbb0207528c048b49b887a9eefa48aaaf2ed836f81957924fc15e5050%3Fnomor=EC002022104062?type=copyright&keyword=lukaku)
+- [Trademark](https://pdki-indonesia.dgip.go.id/detail/52c0cc1b38a1ffbd016af4eb5bfa84eaf54f57416f56e2a4a61e179d79c1d64b%3Fnomor=IPT2022211487?type=trademark&keyword=lukaku)
 
 ## Information
 
